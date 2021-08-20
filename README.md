@@ -3,4 +3,4 @@
 - Alan Freitas Ribeiro, RA: 193400
 
 ## Labs:
-- Lab1
+- [Lab01](https://github.com/Necctares/MC536/tree/main/lab01)
