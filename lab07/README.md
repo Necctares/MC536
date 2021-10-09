@@ -5,11 +5,11 @@
 
 ## Modelo Lógico do Banco de Dados de Grafos
 >
-> ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+> ![Diagrama de Orquestração](https://github.com/Necctares/MC536/blob/main/lab07/images/lab07.png)
 
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * O valor do elenco/investimento de cada clube tem grande impacto em sua posição na competição?
+> * Partidas jogadas como mandante (Em seu estádio) tem influência no resultado da partida?
+> * Qual postura tem maior impacto nas partidas disputadas? (E.g. Defesas mais sólidas vs Melhores ataques)
