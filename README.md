@@ -10,3 +10,4 @@
 - [Lab05](https://github.com/Necctares/MC536/tree/main/lab05)
 - [Lab06](https://github.com/Necctares/MC536/tree/main/lab06)
 - [Lab07](https://github.com/Necctares/MC536/tree/main/lab07)
+- [Lab09](https://github.com/Necctares/MC536/tree/main/lab09)
